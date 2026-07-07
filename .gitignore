@@ -1,0 +1,7 @@
+node_modules/
+.env
+.DS_Store
+*.log
+server-api-backup.js
+mcp-http-server-backup.js
+server backup copy.js
